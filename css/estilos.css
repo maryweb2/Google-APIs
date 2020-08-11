@@ -1,0 +1,131 @@
+body{
+    background: #056ff1;
+    font-family: Arial;
+    background-size: contain;
+    text-align: justify;
+}
+
+#contenedor{
+    width: 80%;
+    height: 1300px;
+    background-color: white;
+    margin: 0px auto 0px auto ;  /* margen con el orden arriba, derecha, abajo, izquierda */
+    padding: 5px; /* padding =relleno  */
+    border-style: solid;
+    border-color: white;
+    border-radius: 20px; /* border-radius= redondear los bordes */
+}
+
+#temas{
+    width: 34%;
+    height: 600px;
+    float: right; /* float=Imagenes en la derecha o izquierda */
+  
+}
+
+#temas a{
+  text-decoration: none;
+  color: darkblue;
+}
+
+
+
+
+  /* unvisited link */
+#temas a {
+    color: rgb(46, 0, 252);
+  }
+
+  
+  /* mouse over link */
+  #temas a:hover {
+    color: red;
+  }
+  
+  
+  
+#articulos{
+    width: 58%;
+    height: 700px;
+    float: left;
+    padding-left: 20px;  /* padding left relleno a la izquierda */
+    margin: 0px auto 0px auto;
+}
+
+#pie{
+    width: 100%;
+    margin-top: 950px;
+}
+
+
+#container{
+    width: 70%;
+    height: 225%;
+    background-color: white;
+    margin: 0px auto 0px auto ;  /* margen con el orden arriba, derecha, abajo, izquierda */
+    padding: 10px; /* padding =relleno  */
+    border-style: solid;
+    border-color: white;
+    border-radius: 25px; /* border-radius= redondear los bordes */
+}
+.ventajas{
+    margin: 30px 80px 30px 80px;
+    float: right;
+    text-align: center;
+}
+
+.ventajas h2{
+    text-align: center;
+    font-size: 200%;
+}
+
+.ventajas p{
+    text-align: justify;
+    line-height: 25px;
+    font-size: 120%;
+}
+
+.ventajas img{
+    float: left;
+    margin: 0px 30px 20px 20px;
+    text-align: justify;
+}
+
+.ventajas li{
+    font-size: 120%;
+    text-align: justify;
+    line-height: 25px;
+}
+
+
+#Mary{
+    height: 300px;
+    width: 300px;
+     text-align: center;
+    padding: 5; 
+    margin-left: 200px;
+    float: left;
+    border: #056ff1 2px solid;;
+}
+
+#Yuli{
+    height: 300px;
+    width: 300px;
+    padding: 5;  
+    margin-right: 200px;
+    float:right;
+    text-align: center;
+    border:#056ff1 2px solid;
+}
+
+#personal{
+    margin: auto;
+    margin-top: 50px;
+    
+}
+
+#personal img{
+    margin-left: 10px;
+}
+
+

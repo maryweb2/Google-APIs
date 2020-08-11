@@ -1,0 +1,23 @@
+.container{
+    overflow:hidden; /* overflow= mas texto del contenedor no se va a ver */
+    background-color :#056ff1;
+    font-family:Arial;
+}
+
+.container a{
+    float:left;
+    font-size:16px;
+    color:black;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    
+}
+
+
+.container a:hover, #navegacion{
+    background-color: #676a67;
+    color:#ffffff;
+    font:bold;
+    font-size:20PX;  
+}

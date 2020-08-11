@@ -1,0 +1,28 @@
+.ventajas{
+    margin: 30px 80px 30px 80px;
+    float: right;
+    text-align: center;
+}
+
+.ventajas h2{
+    text-align: center;
+    font-size: 200%;
+}
+
+.ventajas p{
+    text-align: justify;
+    line-height: 25px;
+    font-size: 120%;
+}
+
+.ventajas img{
+    float: left;
+    margin: 0px 30px 20px 20px;
+    text-align: center;
+}
+
+.ventajas li{
+    font-size: 120%;
+    text-align: justify;
+    line-height: 25px;
+}
